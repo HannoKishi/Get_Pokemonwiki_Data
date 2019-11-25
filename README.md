@@ -8,3 +8,5 @@ Use Python Reptile technique to get Pokemon_wiki Data
           id+宝可梦名字+属性(name_only.txt)
           
 这里进化方法由于要点进每只宝可梦界面，而且进化方法表格多样化，效果一般
+仅此做一个爬取wiki模板
+具体环境根据csdn博客文章可以配置
