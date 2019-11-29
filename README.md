@@ -11,6 +11,11 @@
            **宝可梦名字+属性+进化方法（get_myPokemon.txt）**         
            **id+宝可梦名字+属性(name_only.txt)**              
           
-这里进化方法由于要点进每只宝可梦界面，而且进化方法表格多样化，效果一般                 
-仅此做一个爬取wiki模板           
-具体环境根据csdn博客文章可以配置            
+           这里进化方法由于要点进每只宝可梦界面，而且进化方法表格多样化，效果一般                 
+           仅此做一个爬取wiki模板           
+           具体环境根据csdn博客文章可以配置            
+           
+**网页图如下（需要名字 属性 进化方式）**  
+![image](https://github.com/HannoKishi/Get_Pokemonwiki_Data/blob/master/img/52poke1.png)
+![image](https://github.com/HannoKishi/Get_Pokemonwiki_Data/blob/master/img/52poke2.png)
+
