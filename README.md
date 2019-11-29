@@ -17,5 +17,9 @@
            
 **网页图如下（需要名字 属性 进化方式）**  
 ![image](https://github.com/HannoKishi/Get_Pokemonwiki_Data/blob/master/img/52poke1.png)
-![image](https://github.com/HannoKishi/Get_Pokemonwiki_Data/blob/master/img/52poke2.png)
+![image](https://github.com/HannoKishi/Get_Pokemonwiki_Data/blob/master/img/52poke2.png)  
+
+**效果图**     
+![image](https://github.com/HannoKishi/Get_Pokemonwiki_Data/blob/master/img/效果图1.png)
+![image](https://github.com/HannoKishi/Get_Pokemonwiki_Data/blob/master/img/效果图2.png)
 
